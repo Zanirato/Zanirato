@@ -1,17 +1,22 @@
 ## Oláááááááá pessoal, Julia Zanirato falandooo 🪄
 ![shadow](https://github.com/user-attachments/assets/07a1832f-a833-4485-b751-c069db3a2734)
-<!--
-**Zanirato/Zanirato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  ✮ 16 anos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  ✮ Brasileira
 
+  
+  ✮ Estudante de Desenvolvimento de Sistemas (SESI/SENAI)
+
+  
+  ✮ Pronomes: Ela/dela
+
+  
+  ✮ Violista 𝄡
+
+  
+  ✮ Artista ☽
+
+  
+  ✮ Twitter e Instagram: @ZaniGameplay
