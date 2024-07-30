@@ -1,5 +1,5 @@
-## Hello there 👋
-
+## Oláááááááá pessoal, Julia Zanirato falandooo 🪄
+![shadow](https://github.com/user-attachments/assets/07a1832f-a833-4485-b751-c069db3a2734)
 <!--
 **Zanirato/Zanirato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
