@@ -26,5 +26,3 @@
   
   ✮ Twitter e Instagram: @ZaniGameplay
 
-  
- ✮ https://x.com/ZaniGameplay?t=7yqDqEYyxR3qUpuyRNbMxA&s=09
