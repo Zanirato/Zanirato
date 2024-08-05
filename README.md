@@ -26,3 +26,6 @@
   
   ✮ Twitter e Instagram: @ZaniGameplay
 
+
+  https://github-readme-stats.vercel.app/api?username=Zanirato&show_icons=true&theme=radical
+
