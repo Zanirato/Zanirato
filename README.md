@@ -7,16 +7,21 @@
   ✮ Brasileira
 
   
-  ✮ Estudante de Desenvolvimento de Sistemas (SESI/SENAI)
+  ✮ Estudante de Técnico em Desenvolvimento de Sistemas (SESI/SENAI)
 
+
+ ✮ Certificados em Economia Circular, Excel Básico, Lógica da Programação, Segurança Cibernética e LGPD
   
-  ✮ Pronomes: Ela/dela
+  ✮ Pronomes: Ela/Ele/Elu
 
   
   ✮ Violista 𝄡
 
   
   ✮ Artista ☽
+
+
+  ✮ Gosto de cinema 📽️
 
   
   ✮ Twitter e Instagram: @ZaniGameplay
