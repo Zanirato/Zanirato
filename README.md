@@ -11,8 +11,9 @@
 
 
  ✮ Certificados em Economia Circular, Excel Básico, Lógica da Programação, Segurança Cibernética e LGPD
+ 
   
-  ✮ Pronomes: Ela/Ele/Elu
+  ✮ Pronomes: Ela/Dela
 
   
   ✮ Violista 𝄡
