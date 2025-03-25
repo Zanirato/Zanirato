@@ -10,7 +10,7 @@
   ✮ Estudante de Técnico em Desenvolvimento de Sistemas (SESI/SENAI)
 
 
- ✮ Certificados em Economia Circular, Excel Básico, Lógica da Programação, Segurança Cibernética, LGPD e Power BI
+ ✮ Certificados em Economia Circular, Excel Básico, Lógica da Programação, Segurança Cibernética, LGPD, Power BI e POO
  
   
   ✮ Pronomes: Ela/Dela
