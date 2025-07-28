@@ -62,6 +62,8 @@
 </div>
 
 
+![Snake animation](https://github.com/Zanirato/Zanirato/blob/output/github-contribution-grid-snake.svg)
+
   https://zanirato.github.io/js-projeto/
 
   
