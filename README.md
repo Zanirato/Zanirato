@@ -44,27 +44,30 @@
 
 <br>
 <hr>
-          
-## 📱Contatos:
-<div>
-<a href="https://www.instagram.com/julia_z4ni/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:juliazairatoo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/julia-zanirato-1167b2355" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
-<br>
-<hr>
-
+## 📊 Estatísticas GitHub
 <div>
 <a href="https://github.com/Zanirato">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanirato&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Zanirato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<br>
+<hr>
 
 ![Snake animation](https://github.com/Zanirato/Zanirato/blob/output/github-contribution-grid-snake.svg)
 
 
+## 📱Contatos:
+
+<div>
+<a href="https://www.instagram.com/julia_z4ni/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:juliazaniratoo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/julia-zanirato-1167b2355" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<br>
+<hr>
 
 ## 👩‍💻 Site de Apresentação
 
