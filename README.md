@@ -1,7 +1,9 @@
-<div align="center"> 
+![bdf34b4cc9b48276854fb78466bc5cdd](https://github.com/user-attachments/assets/f6d466b0-7a84-43c7-aecf-7ae0d248c094)<div align="center"> 
 
 ## Olá, Julia Zanirato falando 🪄
-![shadow](https://github.com/user-attachments/assets/07a1832f-a833-4485-b751-c069db3a2734)
+
+![bdf34b4cc9b48276854fb78466bc5cdd](https://github.com/user-attachments/assets/700f8f20-ebf0-4604-9f56-dcc207ab4a88)
+
 
 <hr>
 
@@ -31,7 +33,7 @@
   ✮ Gosto de cinema 📽️
 
   
-  ✮ Twitter e Instagram: @ZaniGameplay
+  ✮ Twitter e Instagram: @julia_z4ni
 
 <br>
 <br>
