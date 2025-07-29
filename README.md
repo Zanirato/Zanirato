@@ -78,7 +78,7 @@
 ## 👩‍💻 Site de Apresentação
 
 
-https://zanirato.github.io/js-projeto/
+https://zanirato.github.io/js-curriculo/
 
 </div>
 
