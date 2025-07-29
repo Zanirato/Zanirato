@@ -64,8 +64,6 @@
 <br>
 <hr>
 
-![snake gif](https://github.com/Zanirato/Zanirato/blob/output/github-contribution-grid-snake.svg)
-
 ## 📱Contatos:
 
 <div>
