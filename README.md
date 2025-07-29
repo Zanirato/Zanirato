@@ -1,4 +1,3 @@
-![bdf34b4cc9b48276854fb78466bc5cdd](https://github.com/user-attachments/assets/f6d466b0-7a84-43c7-aecf-7ae0d248c094)<div align="center"> 
 
 ## Olá, Julia Zanirato falando 🪄
 
