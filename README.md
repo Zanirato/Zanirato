@@ -18,7 +18,7 @@
   ✮ Estudante de Técnico em Desenvolvimento de Sistemas (SESI/SENAI)
 
 
- ✮ Certificados em Economia Circular, Excel Básico, Lógica da Programação, Segurança Cibernética, LGPD, Power BI e POO
+ ✮ Certificados em Economia Circular, Excel Básico, Lógica da Programação, Segurança Cibernética, LGPD, Power BI, POO, Web 3.0 e Fundamentos em IA.
  
   
   ✮ Pronomes: Ela/Dela
@@ -33,7 +33,7 @@
   ✮ Gosto de cinema 📽️
 
   
-  ✮ Twitter e Instagram: @julia_z4ni
+  ✮ Instagram: @julia_z4ni
 
 <br>
 <br>
